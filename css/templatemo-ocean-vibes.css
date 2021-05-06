@@ -20,7 +20,7 @@ h2, p {
     margin-top: 0;
 }
 
-a:hover, a.active { color: #309AFD; }
+a:hover, a.active { color: #03fc0b; }
 
 .tm-btn {
     padding: 10px 40px;
@@ -54,7 +54,7 @@ div { box-sizing: border-box;}
 .tm-mb-80 { margin-bottom: 80px; }
 .tm-text-center { text-align: center; }
 .tm-text-right { text-align: right; }
-.tm-color-primary { color: #309AFD; }
+.tm-color-primary { color: #03fc0b; }
 .tm-color-gray { color: #666768; }
 .tm-color-gray-2 { color: #98999A; }
 .tm-color-light-gray { color: #9E9FA0; }
@@ -125,12 +125,12 @@ a {
 
 .tm-nav-link:hover,
 .tm-nav-link.active {
-    color: #309AFD;
+    color: #03fc0b;
 }
 
 .tm-nav-link i {
     margin-top: 30px;
-    color: #309AFD;
+    color: #03fc0b;
 }
 
 .tm-main-nav ul {
@@ -266,7 +266,7 @@ button.mfp-arrow {
 
 a.tm-paging-link.active,
 a.tm-paging-link:hover {
-    background: #309AFD;
+    background: #03fc0b;
     color: white;
 }
 
